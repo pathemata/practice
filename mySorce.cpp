@@ -81,6 +81,7 @@ int main()
     cin.tie(NULL);
     cout.tie(NULL);
 
+    cout << "Some changes";
  
     return 0;
 }
