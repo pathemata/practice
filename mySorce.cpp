@@ -82,6 +82,7 @@ int main()
     cout.tie(NULL);
 
     cout << "Some changes";
+    cout << "second changes";
  
     return 0;
 }
